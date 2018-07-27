@@ -13,5 +13,5 @@ $ cp ./docker/docker-compose/docker-compose /usr/local/sbin/
 ```
 4.  删除docker目录
 ```
-rm -r ./docker
+$ rm -r ./docker
 ```
